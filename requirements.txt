@@ -1,0 +1,12 @@
+flask
+openai
+coqui-tts 
+moviepy
+python-dotenv
+assemblyai
+transformers
+torch
+transformers 
+datasets[audio] 
+accelerate
+ffmpeg==7

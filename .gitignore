@@ -1,0 +1,37 @@
+# =========================
+# Python virtual environments
+# =========================
+venv/
+env/
+.venv/
+.ENV/
+tts-env/
+tts/tts-env/
+test/
+test/
+
+# =========================
+# Python cache / build
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# =========================
+# Python packaging
+# =========================
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# =========================
+# Site-packages (IMPORTANT)
+# =========================
+**/site-packages/
+**/lib/python*/
+**/lib64/
