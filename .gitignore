@@ -9,6 +9,8 @@ tts-env/
 tts/tts-env/
 test/
 test/
+.env
+.env.*
 
 # =========================
 # Python cache / build

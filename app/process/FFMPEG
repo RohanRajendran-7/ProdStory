@@ -1,0 +1,4 @@
+Goal	max_length	min_length	length_penalty
+Short/brief output	40–60	20–30	2.0+
+Moderate summary	80–120	40–60	1.5
+Detailed/expanded	120–200	80–100	0.8–1.0
