@@ -20,6 +20,4 @@ video_layer = (
     .resized(height=900)  # resize video to fit inside background
     .with_position(("center", "center"))
 )
-final = CompositeVideoClip([bg, video_layer], size=(W, H))
-
-final.write_videofile(output_path, codec="libx264", audio_codec="aac", fps=video.fps)
+final = CompositeVideoClip([bg, video_layer])                                                                  
